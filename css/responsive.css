@@ -1,0 +1,273 @@
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.header-menu ul {
+	  display: none;
+	}
+
+	.bannar-dtls h2 {
+	  font-size: 55px;
+	}
+
+	.bannar-dtls .btn-right {
+	  margin-left: 14px;
+	}
+
+	.medcenter-area {
+	  padding-top: 45px;
+	  padding-bottom: 50px;
+	}
+
+	.medcenter-title h3 {
+	  font-size: 25px;
+	}
+
+	.medcenter-title p {
+	  font-size: 17px;
+	}
+
+	.single-medcenter {
+	  margin-bottom: 25px;
+	}
+
+	.view-more a {
+	  margin-top: 0px;
+	}
+
+	.right-time-title span {
+	  font-size: 20px;
+	}
+
+	.right-time-title h3 {
+	  font-size: 22px;
+	}
+
+	.image-title h4 {
+	  margin-top: 5px;
+	}
+
+	.search-dtls p {
+	  margin-top: 10px;
+	}
+
+	.search-by {
+	  margin-bottom: 25px;
+	}
+
+	.right-time-area {
+	  padding-top: 30px;
+	  padding-bottom: 39px;
+	}
+
+	.ranking-process-area {
+	  padding-top: 30px;
+	  padding-bottom: 40px;
+	}
+
+	.ranking-title h3 {
+	  margin-bottom: 25px;
+	  font-size: 30px;
+	}
+
+	.our-process p {
+	  margin-bottom: 15px;
+	}
+
+	.why-search {
+	  margin-top: 15px;
+	}
+
+	.expertscape-left, .expertscape-right {
+	  margin-top: 10px;
+	}
+
+	.visitors-say {
+	  padding-top: 30px;
+	}
+
+	.all-feedbacks {
+	  margin-top: 5px;
+	}
+
+	.mt {
+	  margin-top: 0;
+	}
+
+	.brdr {
+	  margin-top: 25px !important;
+	}
+
+	.additions-title h2 {
+	  width: 461px;
+	  margin-bottom: 0;
+	  margin-left: auto;
+	  margin-right: auto;
+	}
+
+	.additions-title p {
+	  width: 354px;
+	  margin: auto;
+	}
+
+	.subscribe-form {
+	  margin-top: 20px;
+	}
+
+	.subscribe-form input[type="email"] {
+	  width: 310px;
+	}
+	
+}
+
+
+
+@media screen and (max-width: 767px) {
+	.header-menu ul {
+	  display: none;
+	}
+
+	.bannar-dtls h2 {
+	  font-size: 41px;
+	}
+
+	.bannar-dtls p {
+	  font-size: 16px;
+	}
+
+	.bannar-dtls .btn-right {
+	  margin-left: 0;
+	  margin-top: 7px;
+	}
+
+	.bannar-dtls span {
+	  display: block;
+	  text-align: left;
+	  margin-left: 18%;
+	  margin-top: 7px;
+	}
+
+	.medcenter-area {
+	  padding-top: 40px;
+	  padding-bottom: 30px;
+	}
+
+	.medcenter-title {
+	  margin-bottom: 12px;
+	}
+
+	.medcenter-title span {
+	  font-size: 13px;
+	}
+
+	.medcenter-title h3 {
+	  font-size: 24px;
+	}
+
+	.medcenter-title p {
+	  font-size: 16px;
+	}
+
+	.image-number {
+	  text-align: center;
+	}
+
+	.single-medcenter {
+	  margin-top: 15px;
+	}
+
+	.right-time-area {
+	  padding-top: 35px;
+	  padding-bottom: 40px;
+	}
+
+	.right-time-title {
+	  margin-bottom: 23px;
+	}
+
+	.search-by {
+	  margin-top: 15px;
+	}
+
+	.image-title h4 {
+	  margin-top: 0px;
+	}
+
+	.search-dtls p {
+	  margin-top: 10px;
+	}
+
+	.ranking-process-area {
+	  padding-top: 30px;
+	}
+
+	.ranking-title span {
+	  font-size: 20px;
+	}
+
+	.ranking-title h3 {
+	  font-size: 26px;
+	  margin-bottom: 30px;
+	}
+
+	.our-process p {
+	  margin-bottom: 10px;
+	}
+
+	.why-search {
+	  margin-top: 13px;
+	}
+
+	.rank-image {
+	  margin-top: 15px;
+	}
+
+	.visitors-say {
+	  padding-top: 30px;
+	}
+
+	.brdr {
+	  margin-top: 15px !important;
+	}
+
+	.all-feedbacks {
+	  margin-top: 15px;
+	}
+
+	.additions-ranking {
+	  width: 100%;
+	  padding: 36px 0;
+	}
+
+	.additions-title h2 {
+	  font-size: 28px;
+	}
+
+	.additions-title p {
+	  font-size: 14px;
+	}
+
+	.subscribe-form {
+	  margin-top: 24px;
+	}
+
+	.subscribe-form input[type="submit"] {
+	  margin-top: 15px;
+	}
+
+	.expertscape-left {
+	  width: 100%;
+	}
+
+	.expertscape-right {
+	  width: 100%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+}
